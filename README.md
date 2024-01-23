@@ -1,4 +1,4 @@
-# Hello, I'm Adib! Welcome to my GitHub Page
+# Welcome to Adib's GitHub Page!
 
 Hello! Appreciate your visit to my GitHub page! This repository acts as an archive for my previous project. If there is something you want to ask feel free to reach out to me via email at [adib.haryo@gmail.com](mailto:adib.haryo@gmail.com) or find me on [LinkedIn](https://www.linkedin.com/in/adibharyo/).
 
